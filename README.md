@@ -96,5 +96,5 @@ plt.title("Stock Weekly Standard Deviation")
 plt.ylabel("STD of CLOSING PRICE")
 plt.savefig("HMCSTD.png")
 plt.show()
-
+# GoodBYE
 ```
